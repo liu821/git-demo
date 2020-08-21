@@ -1,0 +1,11 @@
+1. git push远程仓库地址分支名称
+2. git push远程仓库地址别名分支名称
+3. git push -u远程仓库地址别名分支名称
+-u记住推送地址及分支，下次推送只需 要输入git push即可
+4. git remote add远程仓库地址别名远程仓库地址
+例：原始：$ git push https://github.com/liu821/git-demo.git master
+命名：$ git remote add origin https://github.com/liu821/git-demo.git
+简化：$ git push origin master
+记住地址和分支：$ git push -u origin master
+最终精简：$ git push
+

@@ -1,0 +1,4 @@
+生成秘钥: ssh-keygen
+秘钥存储目录: C:\Users\用\.ssh
+公钥名称: id_ rsa.pub
+私钥名称: id_ rsa .

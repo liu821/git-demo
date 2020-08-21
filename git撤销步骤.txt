@@ -1,0 +1,4 @@
+●用暂存区中的文件覆盖工作目录中的文件:
+git checkout 文件
+●将文件从暂存区中删除: git rm --cached 文件
+●将git库中指定的更新记录恢复出来,且覆盖暂存区和工作目录: git reset --hard commitID

@@ -1,0 +1,4 @@
+1.A程序员去github的settings给B程序员发分享码
+2.B程序员粘贴分享链接同意A的邀请
+3.B使用$ git clone 地址克隆A的文件，并可在文件中做出修改
+3.B在git中输入$ git push origin master将修改的数据传入远程

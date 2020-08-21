@@ -1,0 +1,5 @@
+1. git init初始化git仓库
+2. git status 查看文件状态
+3. git add文件列表追踪文件
+4. git commit -m提交信息向仓库中提交代码
+5. git log 查看提交记录
